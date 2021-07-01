@@ -616,9 +616,9 @@ Most used languages across my projects:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanar.orhanar)
 
+<!--RECENT_ACTIVITY:start--> 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 
 
