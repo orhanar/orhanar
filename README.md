@@ -579,7 +579,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **6** years ago.
 
-Since then I pushed **152** commits, opened **17** issues, submitted **9** pull requests, received **0** stars across **16** personal projects and contributed to **6** public repositories.
+Since then I pushed **157** commits, opened **17** issues, submitted **9** pull requests, received **0** stars across **16** personal projects and contributed to **6** public repositories.
 
 Most used languages across my projects:
 
@@ -622,11 +622,7 @@ Most used languages across my projects:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanar.orhanar)
 
 <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
-2. 🔱 Forked [orhanar/jamesgeorge007](https://github.com/orhanar/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
-4. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
-5. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
+
 <!--RECENT_ACTIVITY:end-->
 
 
