@@ -579,7 +579,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **6** years ago.
 
-Since then I pushed **196** commits, opened **17** issues, submitted **9** pull requests, received **0** stars across **15** personal projects and contributed to **7** public repositories.
+Since then I pushed **185** commits, opened **17** issues, submitted **9** pull requests, received **0** stars across **15** personal projects and contributed to **7** public repositories.
 
 Most used languages across my projects:
 
