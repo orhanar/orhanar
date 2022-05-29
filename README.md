@@ -459,88 +459,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1470-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 212 Contributions in the Year 2022
- > 
-> 📦 80.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
-🌆 Daytime    70 commits     ████████░░░░░░░░░░░░░░░░░   35.35% 
-🌃 Evening    119 commits    ███████████████░░░░░░░░░░   60.1% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
-Sunday       145 commits    ██████████████████░░░░░░░   73.23%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-JavaScript               1 hr 6 mins         █████████████░░░░░░░░░░░░   53.24% 
-JSON                     51 mins             ██████████░░░░░░░░░░░░░░░   40.85% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-
-🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-masterPortfolio-master   1 hr 23 mins        ████████████████░░░░░░░░░   66.08% 
-my                       35 mins             ███████░░░░░░░░░░░░░░░░░░   28.6% 
-MyTaxi                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
-
-💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 29/05/2022 23:08:02 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -607,15 +525,19 @@ Here's a graph for people who like graphs:
 </tbody>
 </table>
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **7** years ago.
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since then I pushed **268** commits, opened **25** issues, submitted **24** pull requests, received **10** stars across **12** personal projects and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B189.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B16.9%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11.8%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.2%25)
+![Tcl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B10.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
 </details>
 
@@ -644,17 +566,10 @@ Most used languages across my projects:
 </summary>
 
 ## Latest Activity	
-⬆️ Pushed 1 commit to orhanar/orhanar
-⬆️ Pushed 1 commit to orhanar/orhanar
-⬆️ Pushed 1 commit to orhanar/orhanar
-⬆️ Pushed 1 commit to orhanar/orhanar
-⬆️ Pushed 1 commit to orhanar/orhanar
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
