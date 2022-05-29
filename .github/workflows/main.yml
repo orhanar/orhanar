@@ -27,6 +27,10 @@ jobs:
       uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.GH_TOKEN }}
+    - name: Get Updated Activity
+      uses: Readme-Workflows/recent-activity@v2.3.3
+      env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
@@ -36,10 +40,6 @@ jobs:
         git commit -m "Update README"
         git push -f
         fi
-    - uses: actions/checkout@v3
-    - uses: Readme-Workflows/recent-activity@v2.3.3
-      env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
