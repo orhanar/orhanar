@@ -26,23 +26,18 @@ jobs:
         git commit -m "Update README"
         git push -f
         fi
-        
-  update-readme:
-      runs-on: ubuntu-latest
-      needs: template-update
-      steps:
-       - name: Get Github Actions
-         uses: actions/checkout@v3
-       - name: Generate Waka Stats
-         uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
-         with:
+    - name: Get Github Actions
+      uses: actions/checkout@v3
+    - name: Generate Waka Stats
+      uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
-       - name: Get Activity Updates
-         uses: Readme-Workflows/recent-activity@v1.2.1
-         env:
+    - name: Get Activity Updates
+      uses: Readme-Workflows/recent-activity@v1.2.1
+      env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-       - name: Get Updated Blog Entries
-         uses: gautamkrishnar/blog-post-workflow@master
-         with:
+    - name: Get Updated Blog Entries
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
