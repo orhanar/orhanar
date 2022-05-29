@@ -459,89 +459,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-956-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 175 Contributions in the Year 2022
- > 
-> 📦 79.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-🌆 Daytime    77 commits     ███████████░░░░░░░░░░░░░░   45.03% 
-🌃 Evening    86 commits     ████████████░░░░░░░░░░░░░   50.29% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
-Sunday       119 commits    █████████████████░░░░░░░░   69.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-JavaScript               1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.14% 
-CSS                      1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   34.17% 
-JSON                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
-🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-masterPortfolio-master   1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.86% 
-taxi                     1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   35.22% 
-my                       56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95% 
-MyTaxi                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
-
-💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 29/05/2022 20:11:12 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -610,7 +527,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **7** years ago.
 
-Since then I pushed **232** commits, opened **24** issues, submitted **24** pull requests, received **10** stars across **12** personal projects and contributed to **2** public repositories.
+Since then I pushed **234** commits, opened **25** issues, submitted **24** pull requests, received **10** stars across **12** personal projects and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
@@ -650,21 +567,10 @@ Most used languages across my projects:
 
 ## Latest Activity	
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [orhanar/gscholar](https://github.com/orhanar/gscholar) from [venthur/gscholar](https://github.com/venthur/gscholar)
-2. 🔱 Forked [orhanar/scipy-cookbook](https://github.com/orhanar/scipy-cookbook) from [scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook)
-3. 🔱 Forked [orhanar/HowToLiveLonger](https://github.com/orhanar/HowToLiveLonger) from [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
-4. 🔱 Forked [orhanar/DoubleGremlin181](https://github.com/orhanar/DoubleGremlin181) from [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
-5. 🔱 Forked [orhanar/recent-activity](https://github.com/orhanar/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 7:59:53 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
