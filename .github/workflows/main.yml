@@ -4,17 +4,47 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '*/30 * * * *'
-  
+
 jobs:
-   build:
+  template-update:
     runs-on: ubuntu-latest
     steps:
-    - name: Generate Waka Stats
-      uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+    - name: Get Github Actions
+      uses: actions/checkout@v3
       with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    
-  
-  
-  
+        fetch-depth: 0
+    - name: Generate new README Stats
+      uses: teoxoy/profile-readme-stats@v1
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+    - name: Push new README stats
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push -f
+        fi
+        
+  update-readme:
+      runs-on: ubuntu-latest
+      needs: template-update
+      steps:
+       - name: Get Github Actions
+         uses: actions/checkout@v3
+         with:
+           fetch-depth: 0
+       - name: Generate Waka Stats
+         uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+         with:
+             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+             GH_TOKEN: ${{ secrets.GH_TOKEN }}
+       - name: Get Updated Activity
+         uses: Readme-Workflows/recent-activity@v2.3.2
+         env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+       - name: Get Updated Blog Entries
+         uses: gautamkrishnar/blog-post-workflow@master
+         with:
+          feed_list: "https://orhanar.github.io/blog/feed.xml"
