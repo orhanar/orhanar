@@ -47,7 +47,9 @@ jobs:
           username: 'orhanar'
           github_token: ${{ secrets.GH_TOKEN }}
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Get Updated Blog Entries
-      - uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
