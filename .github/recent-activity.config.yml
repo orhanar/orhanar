@@ -2,7 +2,6 @@ settings:
   username: "orhanar"
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
-  readme_file: "./README.md"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
