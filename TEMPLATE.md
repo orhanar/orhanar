@@ -613,7 +613,7 @@ Most used languages across my projects:
 
 ## Latest Activity
 	
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 	
 ## Latest Blog Posts
 	
