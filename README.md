@@ -459,91 +459,56 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-391-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 130 Contributions in the Year 2022
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+**🐱 My Github Data** 
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 78.7 kB Used in GitHub's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 36 Public Repositories
  > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
+> 🔑 7 Private Repositories 
+**I'm a Night 🦉** 
 ```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-🌆 Daytime    77 commits     ██████████████░░░░░░░░░░░   57.46% 
-🌃 Evening    49 commits     █████████░░░░░░░░░░░░░░░░   36.57% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Sunday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-Sunday       82 commits     ███████████████░░░░░░░░░░   61.19%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.14% 
-CSS                      1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   34.17% 
-JSON                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
+No Activity Tracked This Week
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.0%
-
+No Activity Tracked This Week
 🐱‍💻 Projects: 
-masterPortfolio-master   1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.86% 
-taxi                     1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   35.22% 
-my                       56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95% 
-MyTaxi                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
-
+No Activity Tracked This Week
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.0%
-
+No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 29/05/2022 17:02:31 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -612,18 +577,18 @@ Here's a graph for people who like graphs:
 
 Joined Github **7** years ago.
 
-Since then I pushed **185** commits, opened **24** issues, submitted **24** pull requests, received **10** stars across **13** personal projects and contributed to **2** public repositories.
+Since then I pushed **195** commits, opened **24** issues, submitted **24** pull requests, received **10** stars across **12** personal projects and contributed to **2** public repositories.
 
 Most used languages across my projects:
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B174.6%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B117.1%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B14.6%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B11.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.7%25)
-![Tcl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B10.5%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B185.4%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B19.8%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.6%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.7%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.4%25)
+![Tcl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B10.3%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
 </details>
 
@@ -660,13 +625,12 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 4:25:40 PM
+Last Updated: Sunday, May 29th, 2022, 5:00:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
