@@ -600,6 +600,10 @@ Most used languages across my projects:
     <a href="https://stackoverflow.com/users/14938630/orhan-arifoglu" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a> &nbsp; &nbsp; 
 </p>
 
+<p align="center">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=14938630">
+</p>	
+	
 </details>
 
 <details>
