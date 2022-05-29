@@ -49,15 +49,6 @@ jobs:
       uses: gautamkrishnar/blog-post-workflow@master
       with:
           feed_list: "https://medium.com/feed/@orhanarifoglu"
-    - name: GADPP
-      uses: umutphp/github-action-dynamic-profile-page@v2
-      id: gadpp
-      env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      with:
-          github-username: 'orhanar'
-          user-email: 'lemikistu@gmail.com'
     - name: Generate and Push new README Stats
       uses: teoxoy/profile-readme-stats@v1
       with:
