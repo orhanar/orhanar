@@ -9,14 +9,6 @@ jobs:
    build:
     runs-on: ubuntu-latest
     steps:
-    - name: Get Actions Checkout
-      uses: actions/checkout@v3
-    - name: Generate Recent Activity
-      uses: Readme-Workflows/recent-activity@v2.3.3
-      env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   
-      with:
-          CONFIG_FILE: './.github/workflows/activity.yml'
     - name: Generate Waka Stats
       uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
       with:
@@ -58,6 +50,14 @@ jobs:
         git commit -m "Update README"
         git push -f
         fi
+    - name: Get Actions Checkout
+      uses: actions/checkout@v3
+    - name: Generate Recent Activity
+      uses: Readme-Workflows/recent-activity@v2.3.3
+      env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   
+      with:
+          CONFIG_FILE: './.github/workflows/activity.yml'
     - name: Pull in dev.to posts
       uses: gautamkrishnar/blog-post-workflow@master
       with:
