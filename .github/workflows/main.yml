@@ -36,8 +36,15 @@ jobs:
         SHOW_LANGUAGE_PER_REPO: "True"
         SHOW_SHORT_INFO: "True"
         LOCALE: "en"   
-    - name: Checkout
+    
+   publish:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - name: Get Github Actions
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: GADPP
       uses: umutphp/github-action-dynamic-profile-page@v2
       id: gadpp
@@ -47,15 +54,6 @@ jobs:
       with:
           github-username: 'orhanar'
           user-email: 'lemikistu@gmail.com'
-        
-   publish:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    - name: Get Github Actions
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
     - name: Generate and Push new README Stats
       uses: teoxoy/profile-readme-stats@v1
       with:
