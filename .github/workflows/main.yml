@@ -38,7 +38,7 @@ jobs:
       runs-on: ubuntu-latest
       needs: template-update
       steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
       - name: Create README.md
@@ -47,6 +47,7 @@ jobs:
           username: 'orhanar'
           github_token: ${{ secrets.GH_TOKEN }}
       - name: Get Updated Blog Entries
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
