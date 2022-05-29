@@ -624,14 +624,11 @@ Most used languages across my projects:
 5. 🔱 Forked [orhanar/recent-activity](https://github.com/orhanar/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 7:39:28 PM
+Last Updated: Sunday, May 29th, 2022, 7:52:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
