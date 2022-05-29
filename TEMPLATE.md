@@ -606,6 +606,8 @@ Most used languages across my projects:
 <summary>
 	<b> Latest Activities </b>
 </summary>
+
+## Latest Activity
 	
 <!--RECENT_ACTIVITY:start--> 
 1. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
@@ -614,8 +616,15 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Sunday, May 29th, 2022, 2:54:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+	
+## Latest Commmits
 
 <!-- START gadpp -->
+	
+## Latest Blog Posts
+	
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 	
 </details>
 
