@@ -561,8 +561,6 @@ Most used languages across my projects:
 	<b> Latest Activities </b>
 </summary>
 
-## Latest Activity	
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
