@@ -649,9 +649,8 @@ Most used languages across my projects:
 </summary>
 
 ## Latest Activity
-	
 <!--RECENT_ACTIVITY:start-->
-	
+<!--RECENT_ACTIVITY:last_update-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
