@@ -459,91 +459,56 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-233-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 110 Contributions in the Year 2022
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+**🐱 My Github Data** 
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 78.7 kB Used in GitHub's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 36 Public Repositories
  > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
+> 🔑 7 Private Repositories 
+**I'm a Night 🦉** 
 ```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-🌆 Daytime    69 commits     █████████████░░░░░░░░░░░░   54.76% 
-🌃 Evening    49 commits     █████████░░░░░░░░░░░░░░░░   38.89% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Sunday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Sunday       74 commits     ██████████████░░░░░░░░░░░   58.73%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.14% 
-CSS                      1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   34.17% 
-JSON                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
+No Activity Tracked This Week
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.0%
-
+No Activity Tracked This Week
 🐱‍💻 Projects: 
-masterPortfolio-master   1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.86% 
-taxi                     1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   35.22% 
-my                       56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95% 
-MyTaxi                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
-
+No Activity Tracked This Week
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.0%
-
+No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 29/05/2022 16:12:55 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -612,7 +577,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **7** years ago.
 
-Since then I pushed **182** commits, opened **24** issues, submitted **24** pull requests, received **10** stars across **13** personal projects and contributed to **2** public repositories.
+Since then I pushed **183** commits, opened **24** issues, submitted **24** pull requests, received **10** stars across **13** personal projects and contributed to **2** public repositories.
 
 Most used languages across my projects:
 
@@ -660,13 +625,12 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 3:51:06 PM
+Last Updated: Sunday, May 29th, 2022, 4:11:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
