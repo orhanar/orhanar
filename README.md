@@ -617,7 +617,15 @@ Most used languages across my projects:
 
 ## Latest Activity	
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [orhanar/scipy-cookbook](https://github.com/orhanar/scipy-cookbook) from [scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook)
+2. 🔱 Forked [orhanar/HowToLiveLonger](https://github.com/orhanar/HowToLiveLonger) from [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+3. 🔱 Forked [orhanar/DoubleGremlin181](https://github.com/orhanar/DoubleGremlin181) from [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
+4. 🔱 Forked [orhanar/recent-activity](https://github.com/orhanar/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 🔱 Forked [orhanar/applied-ml](https://github.com/orhanar/applied-ml) from [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, May 29th, 2022, 7:07:33 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
