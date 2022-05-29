@@ -38,12 +38,10 @@ jobs:
         fi
     - name: Get Actions Checkout
       uses: actions/checkout@v3
-    - name: Generate Recent Activity
-      uses: Readme-Workflows/recent-activity@v2.3.3
+    - name: Get Activity Updates
+      uses: jamesgeorge007/github-activity-readme@master
       env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      with:
-          CONFIG_FILE: './.github//workflows/recent-activity-config.yml'
     - name: Pull in dev.to posts
       uses: gautamkrishnar/blog-post-workflow@master
       with:
