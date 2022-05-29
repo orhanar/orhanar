@@ -618,10 +618,6 @@ Most used languages across my projects:
 ## Latest Activity
 	
 <!--RECENT_ACTIVITY:start--> 
-
-
-<!--RECENT_ACTIVITY:last_update-->
-
 	
 ## Latest Blog Posts
 	
