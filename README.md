@@ -617,7 +617,7 @@ Most used languages across my projects:
 
 ## Latest Activity
 	
-<!--RECENT_ACTIVITY:start--> 
+<!--START_SECTION:activity-->
 	
 ## Latest Blog Posts
 	
