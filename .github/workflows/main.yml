@@ -39,7 +39,7 @@ jobs:
     - name: Get Actions Checkout
       uses: actions/checkout@v3
     - name: Get Activity Updates
-      uses: Readme-Workflows/recent-activity@{version}
+      uses: Readme-Workflows/recent-activity@v2.3.3
       env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     - name: Pull in dev.to posts
