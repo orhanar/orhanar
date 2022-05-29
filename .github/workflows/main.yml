@@ -15,31 +15,6 @@ jobs:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
     
-   publish:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    - name: Get Github Actions
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    - name: Generate and Push new README Stats
-      uses: teoxoy/profile-readme-stats@v1
-      with:
-        token: ${{ secrets.GH_TOKEN }}
-    - name: Get Updated Activity
-      uses: Readme-Workflows/recent-activity@v2.3.2
-      env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push -f
-        fi
-    - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-          feed_list: "https://orhanar.github.io/blog/feed.xml"
+  
+  
+  
