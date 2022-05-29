@@ -28,7 +28,7 @@ jobs:
       with:
         token: ${{ secrets.GH_TOKEN }}
     - name: Get Updated Activity
-      uses: Readme-Workflows/recent-activity@v2.3.3
+      uses: Readme-Workflows/recent-activity@v2.3.2
       env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     - name: Update README.md
