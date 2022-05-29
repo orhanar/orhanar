@@ -625,13 +625,12 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 4:19:49 PM
+Last Updated: Sunday, May 29th, 2022, 4:25:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
