@@ -45,8 +45,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
-      - name: Generate Activity
-        uses: actions-js/profile-readme@master
-        with:
-          username: 'orhanar'
-          github_token: ${{ secrets.GH_TOKEN }}
