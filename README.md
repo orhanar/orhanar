@@ -506,7 +506,6 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
 
 
  Last Updated on 29/05/2022 15:29:42 UTC
@@ -624,7 +623,7 @@ Last Updated: Sunday, May 29th, 2022, 3:18:32 PM
 ## Latest Commits
 
 <!-- START gadpp -->
-- orhanar/orhanar, [refs/heads/master@da2107d3eb0b090c882b8fa19cc70a9e49dc047f](https://github.com/orhanar/orhanar/commit/da2107d3eb0b090c882b8fa19cc70a9e49dc047f)
+- orhanar/orhanar, [refs/heads/master@2b7288faed3b753cfb48c316988087bc88422878](https://github.com/orhanar/orhanar/commit/2b7288faed3b753cfb48c316988087bc88422878)
 	
 ## Latest Blog Posts
 	
