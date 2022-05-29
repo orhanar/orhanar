@@ -631,6 +631,8 @@ Last Updated: Sunday, May 29th, 2022, 5:00:58 PM
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
+- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
