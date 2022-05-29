@@ -617,21 +617,10 @@ Most used languages across my projects:
 
 ## Latest Activity	
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [orhanar/applied-ml](https://github.com/orhanar/applied-ml) from [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)
-2. 
-3. 
-4. 
-5. 
-<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 7:00:03 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 	
 </details>
