@@ -617,7 +617,7 @@ Most used languages across my projects:
 Last Updated: Sunday, May 29th, 2022, 2:54:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 	
-## Latest Commmits
+## Latest Commits
 
 <!-- START gadpp -->
 	
