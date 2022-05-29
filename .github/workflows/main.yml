@@ -42,7 +42,6 @@ jobs:
          uses: Readme-Workflows/recent-activity@v1.2.1
          env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
- 
        - name: Get Updated Blog Entries
          uses: gautamkrishnar/blog-post-workflow@master
          with:
