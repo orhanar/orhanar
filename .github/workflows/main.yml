@@ -36,6 +36,17 @@ jobs:
         SHOW_LANGUAGE_PER_REPO: "True"
         SHOW_SHORT_INFO: "True"
         LOCALE: "en"   
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: GADPP
+      uses: umutphp/github-action-dynamic-profile-page@v2
+      id: gadpp
+      env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+          github-username: 'orhanar'
+          user-email: 'lemikistu@gmail.com'
         
    publish:
     runs-on: ubuntu-latest
