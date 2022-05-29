@@ -33,11 +33,6 @@ jobs:
       with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    - name: Generate Activity
-      uses: actions-js/profile-readme@master
-      with:
-          username: 'orhanar'
-          github_token: ${{ secrets.GH_TOKEN }}
                         
   update-readme:
       runs-on: ubuntu-latest
@@ -50,3 +45,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
+      - name: Generate Activity
+        uses: actions-js/profile-readme@master
+        with:
+          username: 'orhanar'
+          github_token: ${{ secrets.GH_TOKEN }}
