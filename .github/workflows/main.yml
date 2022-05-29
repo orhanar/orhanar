@@ -35,7 +35,6 @@ jobs:
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
     - uses: actions/checkout@master
       with:
-          persist-credentials: false
           fetch-depth: 0
     - name: Create README.md
       uses: actions-js/profile-readme@master
