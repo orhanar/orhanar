@@ -33,15 +33,13 @@ jobs:
       steps:
        - name: Get Github Actions
          uses: actions/checkout@v3
-         with:
-           fetch-depth: 0
        - name: Generate Waka Stats
          uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
          with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
-       - uses: actions/checkout@v3
-       - uses: Readme-Workflows/recent-activity@v2.3.2
+       - name: Get Activity Updates
+         uses: Readme-Workflows/recent-activity@v2.3.2
          env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
        - name: Get Updated Blog Entries
