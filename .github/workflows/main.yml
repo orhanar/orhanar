@@ -52,13 +52,11 @@ jobs:
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
-        git config --global user.name github-actions[bot]
-        git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add .
         git commit -m "Update README"
-        git config pull.rebase false
-        git pull origin master
-        git push -f origin master
+        git push -f
         fi
     - name: Pull in dev.to posts
       uses: gautamkrishnar/blog-post-workflow@master
