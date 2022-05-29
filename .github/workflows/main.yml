@@ -46,10 +46,6 @@ jobs:
         with:
           username: 'orhanar'
           github_token: ${{ secrets.GH_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
       - name: Get Updated Blog Entries
         uses: gautamkrishnar/blog-post-workflow@master
         with:
