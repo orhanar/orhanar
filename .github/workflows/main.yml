@@ -44,6 +44,8 @@ jobs:
          uses: Readme-Workflows/recent-activity@v2.3.2
          env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+         with:
+          CONFIG_FILE: './.github/recent-activity.config.yml'
        - name: Get Updated Blog Entries
          uses: gautamkrishnar/blog-post-workflow@master
          with:
