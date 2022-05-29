@@ -48,7 +48,7 @@ jobs:
     - name: Pull in dev.to posts
       uses: gautamkrishnar/blog-post-workflow@master
       with:
-          feed_list: "https://medium.com/feed/@orhanarifoglu"
+          feed_list: "https://orhanar.github.io/blog/feed.xml"
     - name: Generate and Push new README Stats
       uses: teoxoy/profile-readme-stats@v1
       with:
