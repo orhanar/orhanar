@@ -18,7 +18,6 @@
 
 <div>
 <p align="center">
-	 <img src="https://github.com/orhanar/orhanar/blob/master/Assets/PC.gif" alt="animated"/>
 </p>
 </div>
 
@@ -53,21 +52,15 @@
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white&link=https://github.com/orhanar?tab=repositories&q=&type=&language=c++)](https://github.com/orhanar?tab=repositories&q=&type=&language=c++) 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/orhanar?tab=repositories&q=&type=&language=python)](https://github.com/orhanar?tab=repositories&q=&type=&language=python)
 <code><img height="30" src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/languages/csharp_dotnet.svg"></code>
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white&link=https://github.com/orhanar?tab=repositories&q=&type=&language=c)](https://github.com/orhanar?tab=repositories&q=&type=&language=c) 
 
 <h2>In web development I have experience with below tools</h2>
 
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/frameworks/reactnative.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/bootstrap.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/jquery.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/flutter.svg"></code>
 <code><img height="30" src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/nodejs_larger.svg"></code>
 <code><img height="30" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
@@ -78,7 +71,6 @@
 
 <code><img height="30" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/vmware.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
@@ -87,14 +79,10 @@
 
 <code><img height="30" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/digitalocean.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/azure.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/google_cloud_platform.svg"></code>
 
 <h2>CI/CD Tools I used before</h2>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/kubernetes.svg"></code>
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Azure](https://img.shields.io/badge/-AzureDevops-0175C2)
 ![Travis](https://img.shields.io/badge/-Travis-red)
@@ -117,16 +105,6 @@
 ![Database Management](https://img.shields.io/badge/-Database%20Management-4d008f)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<img src="https://github.com/orhanar/orhanar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanar/orhanar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/desktop.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/mobile.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/security.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/tools.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/web.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/gamedev.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/datascience.svg"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/cloud.svg"></code>
 <code><img height="30" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></code>
 
 <h2>Database preferences</h2>
@@ -383,7 +361,6 @@
 
 - To learn from scratch
  
- | [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="python logo" width="30">](https://www.python.org/) | [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="python logo" width="30">](https://www.python.org/) | [<img src="https://github.com/orhanar/orhanar/blob/master/dev/new/qt.svg" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/) |  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/) |  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/) | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 	 
 <div align="center">
@@ -397,7 +374,6 @@
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-<img src="https://github.com/orhanar/orhanar/blob/master/dev/new/r.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -412,13 +388,7 @@
 <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <a href="" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-<code><img height="40" src="https://github.com/orhanar/orhanar/blob/master/dev/new/qt.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/hadoop.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/apache_spark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/scala.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/kafka.svg"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/bamboo.svg"></code>
 <code><img height="40" src="https://img.shields.io/badge/-Nestjs-black"></code>
 <code><img height="40" src="https://img.shields.io/badge/-RabbitMQ-black"></code>
 <code><img height="40" src="https://img.shields.io/badge/-ElasticSearch-005571"></code>
@@ -433,19 +403,15 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 <img src="/dev/new/react.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanar/orhanar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanar/orhanar/blob/master/dev/new/nuget.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/unity.svg"></code>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 </br>
 
 <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
-<img src="https://raw.githubusercontent.com/orhanar/orhanar/master/Assets/git.svg" width="70" height="40">
 <img src="/dev/new/nodejs.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white">
 
@@ -540,7 +506,6 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
 
 
  Last Updated on 29/05/2022 15:40:12 UTC
@@ -558,7 +523,6 @@ Here's a graph for people who like graphs:
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/orhanar/orhanar.svg)](https://starchart.cc/orhanar/orhanar)
 
 
 ![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -652,7 +616,6 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:start--> 
 1. 📔 Created new repository [orhanar/test](https://github.com/orhanar/test)
 2. 🔱 Forked [orhanar/gautamkrishnar](https://github.com/orhanar/gautamkrishnar) from [gautamkrishnar/gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar)
-3. 📔 Created new repository [orhanar/orhanar](https://github.com/orhanar/orhanar)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
@@ -662,6 +625,7 @@ Last Updated: Sunday, May 29th, 2022, 3:28:06 PM
 ## Latest Commits
 
 <!-- START gadpp -->
+- orhanar/orhanar, [refs/heads/master@5eadd7b149bf8b17705a4daa570357d4a5ccae10](https://github.com/orhanar/orhanar/commit/5eadd7b149bf8b17705a4daa570357d4a5ccae10)
 	
 ## Latest Blog Posts
 	
