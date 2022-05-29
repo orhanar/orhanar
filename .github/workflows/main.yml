@@ -17,15 +17,6 @@ jobs:
       uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.GH_TOKEN }}
-    - name: Get Github Actions
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    - name: Create README.md
-      uses: actions-js/profile-readme@master
-      with:
-          username: 'orhanar'
-          github_token: ${{ secrets.GH_TOKEN }}
     - name: Push new README stats
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
@@ -42,6 +33,11 @@ jobs:
       with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Generate Activity
+      uses: actions-js/profile-readme@master
+      with:
+          username: 'orhanar'
+          github_token: ${{ secrets.GH_TOKEN }}
                         
   update-readme:
       runs-on: ubuntu-latest
