@@ -57,4 +57,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with: 
-          CONFIG_FILE: '/.github/activity-config.yml'
+          CONFIG_FILE: './.github/activity-config.yml'
