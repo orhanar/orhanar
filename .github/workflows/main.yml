@@ -45,3 +45,16 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
+          
+  activity:
+    runs-on: ubuntu-latest
+    needs: update-readme
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@v2.3.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with: 
+          CONFIG_FILE: '/.github/activity-config.yml'
