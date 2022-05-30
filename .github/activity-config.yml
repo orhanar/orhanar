@@ -1,7 +1,7 @@
 settings:
   username: "orhanar" # Replace with your username or comment out this line
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
+  max_lines: 1
   readme_file: "./README.md"
   disabled_events:
     - "comments"
