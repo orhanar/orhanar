@@ -566,10 +566,6 @@ Most used languages across my projects:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Recent Events
-	
-<!--RECENT_ACTIVITY:start-->
-
 </details>
 
 <p align="center">
