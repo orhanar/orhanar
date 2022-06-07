@@ -1,5 +1,5 @@
 <p align="center">
- <strong>Hi there </strong><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <strong>I am</strong>  <a href="https://orhanar.github.io">Orhan</a>
+ <strong>Hi there </strong><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px"> <strong>I am</strong>  <a href="https://orhanar.github.io">Orhan</a>
 </p> 
 
 <a href="https://www.kaggle.com/orhanar"><img align="left" alt="Orhan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
@@ -539,7 +539,7 @@ Most used languages across my projects:
 
 <details>
 <summary>
-	<b> Connect with me 📫<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="20px" /></b> 	
+	<b> Connect with me 📫<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="20px" /></b> 	
 </summary>
 	
 <p align="center">
