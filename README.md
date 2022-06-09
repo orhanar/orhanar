@@ -459,82 +459,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2001-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 229 Contributions in the Year 2022
- > 
-> 📦 80.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   27.64% 
-🌃 Evening    120 commits    ███████████████░░░░░░░░░░   60.3% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Tuesday      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
-Sunday       129 commits    ████████████████░░░░░░░░░   64.82%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/06/2022 14:42:55 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -644,9 +568,6 @@ Most used languages across my projects:
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
