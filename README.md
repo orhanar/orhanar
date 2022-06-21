@@ -459,82 +459,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 233 Contributions in the Year 2022
- > 
-> 📦 80.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   27.64% 
-🌃 Evening    120 commits    ███████████████░░░░░░░░░░   60.3% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-Wednesday    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
-Sunday       121 commits    ███████████████░░░░░░░░░░   60.8%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
-
-
- Last Updated on 21/06/2022 13:32:00 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
@@ -601,15 +525,19 @@ Here's a graph for people who like graphs:
 </tbody>
 </table>
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **7** years ago.
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since then I pushed **294** commits, opened **25** issues, submitted **24** pull requests, received **11** stars across **12** personal projects and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B189.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B16.9%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11.8%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.2%25)
+![Tcl](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e4cc98&message=Tcl%EF%B8%B10.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
 </details>
 
@@ -642,15 +570,12 @@ Most used languages across my projects:
 2. ![fork] Forked [orhanar/abhijoshi2k](https://github.com/orhanar/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 21st, 2022, 1:34:16 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 21st, 2022, 2:32:17 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
