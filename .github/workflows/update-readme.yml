@@ -28,20 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
-  blog-update:
-    runs-on: ubuntu-latest
-    needs: events-update
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Get Updated Blog Entries
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://orhanar.github.io/blog/feed.xml" 
   readme-update: 
     runs-on: ubuntu-latest
-    needs: blog-update
+    needs: events-update
     steps:    
     - uses: actions/checkout@v2
       with:
@@ -59,3 +48,14 @@ jobs:
         git commit -m "Update README"
         git push -f
         fi
+  blog-update:
+    runs-on: ubuntu-latest
+    needs: readme-update
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Get Updated Blog Entries
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://orhanar.github.io/blog/feed.xml" 
