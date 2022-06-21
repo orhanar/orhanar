@@ -16,21 +16,9 @@ jobs:
        with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  readme-update: 
-    runs-on: ubuntu-latest
-    needs: waka-update
-    steps:    
-      - name: Get Github Actions
-        uses: actions/checkout@v3
-        with:
-            fetch-depth: 0
-      - name: Generate new README Stats
-        uses: teoxoy/profile-readme-stats@v1.2
-        with:
-         token: ${{ secrets.GH_TOKEN }}                 
   events-update:
     runs-on: ubuntu-latest
-    needs: readme-update
+    needs: waka-update
     steps:
     - name: Get Github Actions
       uses: actions/checkout@v3
@@ -51,22 +39,23 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml" 
-  readme-push: 
+  readme-update: 
     runs-on: ubuntu-latest
     needs: blog-update
-    steps:
-      - name: Get Github Actions
-        uses: actions/checkout@v3
-        with:
-            fetch-depth: 0
-      - name: Push new README stats
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m "Update README"
-          git push -f
-          fi
- 
-  
+    steps:    
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v1
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
