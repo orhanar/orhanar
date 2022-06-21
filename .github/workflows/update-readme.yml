@@ -17,6 +17,23 @@ jobs:
       uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.GH_TOKEN }}
+    - name: Get Github Actions
+      uses: actions/checkout@v3
+    - name: Generate dynamic stats
+      uses: Readme-Workflows/recent-activity@main
+      env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+          CONFIG_FILE: "./.github/update-readme.config.yml"
+    - uses: actions-js/profile-readme@master
+      with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          username: orhanar
+          template: "TEMPLATE.md"
+    - uses: actions-js/push@v1.3
+      with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: "master" 
     - name: Push new README stats
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
@@ -45,4 +62,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://orhanar.github.io/blog/feed.xml"
+  
  
