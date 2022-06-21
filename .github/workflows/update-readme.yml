@@ -43,6 +43,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: blog-update
     steps:
+      - name: Get Github Actions
+        uses: actions/checkout@v3
+        with:
+            fetch-depth: 0
       - uses: actions-js/push@v1.3
         with:
           github_token: ${{ secrets.GH_TOKEN }}
