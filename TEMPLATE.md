@@ -562,11 +562,9 @@ Most used languages across my projects:
 </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [orhanar/abhijoshi2k](https://github.com/orhanar/abhijoshi2k)
-2. ![fork] Forked [orhanar/abhijoshi2k](https://github.com/orhanar/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 21st, 2022, 3:17:00 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, July 7th, 2022, 3:50:55 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
