@@ -574,6 +574,9 @@ Most used languages across my projects:
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
+- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
+- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
