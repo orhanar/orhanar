@@ -527,7 +527,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **8** years ago.
 
-Since then I pushed **295** commits, opened **25** issues, submitted **24** pull requests, received **12** stars across **12** personal projects and contributed to **1** public repositories.
+Since then I pushed **295** commits, opened **25** issues, submitted **24** pull requests, received **13** stars across **12** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
@@ -574,9 +574,6 @@ Most used languages across my projects:
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
