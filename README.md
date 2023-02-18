@@ -459,6 +459,82 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2042%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 0 Contributions in the Year 2023
+ > 
+> 📦 82.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning       15 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+🌆 Daytime       52 commits       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+🌃 Evening      111 commits       ███████████████░░░░░░░░░░   60.33 % 
+🌙 Night          6 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday          25 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday         11 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Wednesday        4 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Thursday         8 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Friday           7 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Saturday        10 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Sunday         119 commits       ████████████████░░░░░░░░░   64.67 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/orhanar/orhanar/master/charts/bar_graph.png) 
+
+
+ Last Updated on 18/02/2023 03:35:54 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
