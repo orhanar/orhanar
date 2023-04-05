@@ -459,6 +459,79 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2042%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 82.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+🌆 Daytime                240 commits         █████████░░░░░░░░░░░░░░░░   35.71 % 
+🌃 Evening                358 commits         █████████████░░░░░░░░░░░░   53.27 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Tuesday                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Wednesday                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Thursday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Sunday                   479 commits         ██████████████████░░░░░░░   71.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
+
+
+ Last Updated on 05/04/2023 09:13:12 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
