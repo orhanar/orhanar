@@ -21,13 +21,13 @@ jobs:
     needs: waka-update
     steps:
     - name: Get Github Actions
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2.3.4
     - name: Generate dynamic stats
-      uses: Readme-Workflows/recent-activity@main
+      uses: Readme-Workflows/recent-activity@{version}
       env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
-          CONFIG_FILE: "./.github/update-readme.config.yml"
+          CONFIG_FILE: "./.github/update-readme.config.yml"     
   readme-update: 
     runs-on: ubuntu-latest
     needs: events-update
