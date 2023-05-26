@@ -127,7 +127,6 @@
 <code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/gamedev.svg"></code>
 <code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/datascience.svg"></code>
 <code><img height="30" src="https://github.com/orhanar/orhanar/blob/master/dev/new/cloud.svg"></code>
-<code><img height="30" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></code>
 
 <h2>Database preferences</h2>
 
@@ -214,11 +213,6 @@
 <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
 <img height=64px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=64px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -459,90 +453,13 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 83.3 kB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-🌆 Daytime                253 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
-🌃 Evening                358 commits         █████████████░░░░░░░░░░░░   52.26 % 
-🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Tuesday                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Wednesday                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Thursday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Friday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Sunday                   479 commits         █████████████████░░░░░░░░   69.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
-
-
- Last Updated on 26/05/2023 13:09:47 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=orhanar&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orhanar&theme=github)
 
-
-<a href="https://codestats.net/users/orhanar">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/orhanar?width=850&height=300&timezone=08:00&history_days=20&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="WEGFan's Code::Stats history graph" />
-</a>
-
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/orhanar?grid_color=e8e8e8&text_color=666666&zeroline_color=ababab&language_colors=["red","green","blue"])
 
 ## Stargazers over time
 
@@ -600,7 +517,7 @@ Here's a graph for people who like graphs:
 
 Joined Github **8** years ago.
 
-Since then I pushed **295** commits, opened **25** issues, submitted **24** pull requests, received **12** stars across **12** personal projects and contributed to **1** public repositories.
+Since then I pushed **309** commits, opened **25** issues, submitted **24** pull requests, received **12** stars across **12** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
@@ -641,15 +558,11 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, May 10th, 2023, 8:13:59 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
