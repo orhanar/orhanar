@@ -554,6 +554,7 @@ Most used languages across my projects:
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+<p align="center">Last refresh: <b>Friday, May 26th, 2023, 2:22:03 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
