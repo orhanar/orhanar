@@ -457,7 +457,7 @@
 
 Here's a graph for people who like graphs: 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=orhanar&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orhanar&theme=github)
 
 
 <a href="https://codestats.net/users/orhanar">
