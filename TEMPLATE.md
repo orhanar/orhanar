@@ -551,6 +551,10 @@ Most used languages across my projects:
 	<b> Latest Activities </b>
 </summary>
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
 	
