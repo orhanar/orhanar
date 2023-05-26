@@ -16,6 +16,18 @@ jobs:
        with:
              WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
              GH_TOKEN: ${{ secrets.GH_TOKEN }}    
+  events-update:
+    runs-on: ubuntu-latest
+    needs: waka-update
+    steps:
+    - name: Get Github Actions
+      uses: actions/checkout@v2.3.4
+    - name: Generate dynamic stats
+      uses: Readme-Workflows/recent-activity@{version}
+      env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+          CONFIG_FILE: "./.github/update-readme.config.yml" 
   readme-update: 
     runs-on: ubuntu-latest
     needs: events-update
