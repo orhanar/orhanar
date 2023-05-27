@@ -27,9 +27,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: readme-update
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
   events-update:
      runs-on: ubuntu-latest
      needs: waka-update
