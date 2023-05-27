@@ -453,6 +453,14 @@
 </br>
 
 <!--START_SECTION:waka-->
+
+```text
+C#       0 secs          ██████████████▒░░░░░░░░░░   57.58 %
+Python   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+Other    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Binary   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+```
+
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
