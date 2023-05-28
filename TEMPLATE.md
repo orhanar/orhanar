@@ -552,10 +552,11 @@ Most used languages across my projects:
 </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#12](https://github.com/orhanar/orhanar/issues/12) in [orhanar/orhanar](https://github.com/orhanar/orhanar)<br>
+1. ![issueOpened] Opened issue [#13](https://github.com/orhanar/orhanar/issues/13) in [orhanar/orhanar](https://github.com/orhanar/orhanar)<br>
+2. ![issueOpened] Opened issue [#12](https://github.com/orhanar/orhanar/issues/12) in [orhanar/orhanar](https://github.com/orhanar/orhanar)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 28th, 2023, 9:14:02 AM IST</b>
+<p align="center">Last refresh: <b>Sunday, May 28th, 2023, 9:33:06 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
