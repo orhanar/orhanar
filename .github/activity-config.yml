@@ -8,7 +8,7 @@ settings:
     - "push"
   date:
     timezone: "Europe/London"
-    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
+    text: '<p align="center">Last refresh: <b>{DATE} BST</b>'
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
   issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
