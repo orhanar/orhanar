@@ -1,0 +1,18 @@
+settings:
+  commit_msg: "Automatic workflow run update"
+  max_lines: 10
+  disabled_events:
+    - "star"
+    - "comments"
+  commit_username: "workflow"
+  date:
+    timezone: "GMT+05:30"
+    format: "HH:MM:ss:l d/mm/yyyy o"
+  messages:
+    added_member: "🤝 Became a collaborator on {REPO}"
+    create_repo: "📔 Created {REPO}"
+    issue_issue: "❗️ Opened {ID} in {REPO}"
+    issue_closed: "✔️ Closed {ID} in {REPO}"
+    new_release: "✌️ Released v{ID} for {REPO}"
+    pr_merged: "🎉 Merged {ID} in {REPO}"
+    create_wiki: "📖 Created wiki {WIKI} in {REPO}"
