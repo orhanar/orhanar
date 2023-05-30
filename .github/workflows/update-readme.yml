@@ -6,16 +6,42 @@ on:
     - cron:  '*/30 * * * *'
     
 jobs:
+  readme-update: 
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v3
+       with:
+         fetch-depth: 0
+     - uses: teoxoy/profile-readme-stats@v2
+       with:
+        token: ${{ secrets.GH_TOKEN }}
+        run: |
+         if [[ "$(git status --porcelain)" != "" ]]; then
+         git config user.name github-actions[bot]
+         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+         git add .
+         git commit -m "Update README"
+         git push
+         fi
   events-update:
      runs-on: ubuntu-latest
+     needs: readme-update
      steps:
       - uses: actions/checkout@v2.3.4
       - uses: Readme-Workflows/recent-activity@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-  blog-update:
+  waka-update:
     runs-on: ubuntu-latest
     needs: events-update
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  blog-update:
+    runs-on: ubuntu-latest
+    needs: waka-update
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
