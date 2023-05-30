@@ -46,4 +46,4 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://orhanar.github.io/blog/feed.xml" 
+          feed_list: "https://orhanar.quarto.pub/myblog/index.xml" 
