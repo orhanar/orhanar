@@ -647,9 +647,8 @@ Last Updated: Tuesday, May 30th, 2023, 10:30:30 AM (GMT)
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/22/ai.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/21/newpost.html)
-- [Fastpages Notebook Blog Post](https://orhanarifoglu.github.io/blog/jupyter/2020/02/20/test.html)
+- [Post With Code](https://orhanar.quarto.pub/myblog/posts/post-with-code/index.html)
+- [Welcome To My Blog](https://orhanar.quarto.pub/myblog/posts/welcome/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
