@@ -6,8 +6,7 @@ settings:
     - "comments"
   commit_username: "workflow"
   date:
-    timezone: "GMT+05:30"
-    format: "HH:MM:ss:l d/mm/yyyy o"
+   text: "Last Updated: {DATE} (GMT)"
   messages:
     added_member: "🤝 Became a collaborator on {REPO}"
     create_repo: "📔 Created {REPO}"
