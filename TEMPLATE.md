@@ -466,10 +466,10 @@ Here's a graph for people who like graphs:
 [![Stargazers over time](https://starchart.cc/orhanar/orhanar.svg)](https://starchart.cc/orhanar/orhanar)
 
 
-![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Orhan's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=orhanar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Orhan's github Activity](https://github-readme-streak-stats.herokuapp.com?user=orhanar&theme=dark&hide_border=true&width=400")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanar&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-![Orhan's WakaTime Activity](https://github-readme-stats.vercel.app/api/wakatime?username=@orhanar&v=2&bg_color=00000000&text_color=black&title_color=blue&hide_border=true&disable_animations=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orhanar&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Orhan's WakaTime Activity](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=@orhanar&v=2&bg_color=00000000&text_color=black&title_color=blue&hide_border=true&disable_animations=true)
 
 <table>
   <thead align="center">
