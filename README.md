@@ -465,7 +465,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -530,7 +530,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2023 20:45:09 UTC
+ Last Updated on 03/06/2023 21:10:27 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
