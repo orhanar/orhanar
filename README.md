@@ -453,7 +453,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -496,17 +496,18 @@ Sunday                   483 commits         ███████████�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       31 mins             █████████████████░░░░░░░░   68.42 % 
-Binary                   14 mins             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+C#                       47 mins             █████████████████░░░░░░░░   69.45 % 
+Binary                   20 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
 
 🔥 Editors: 
-Visual Studio            45 mins             █████████████████████████   100.00 % 
+Visual Studio            1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Calculator               45 mins             █████████████████████████   100.00 % 
+Calculator               45 mins             █████████████████░░░░░░░░   66.89 % 
+ConsoleApp2              22 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -526,7 +527,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2023 23:12:41 UTC
+ Last Updated on 18/06/2023 23:36:02 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
