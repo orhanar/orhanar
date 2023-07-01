@@ -459,7 +459,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 73.8 kB Used in GitHub's Storage 
+> 📦 73.6 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2023
  > 
@@ -525,7 +525,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2023 20:13:50 UTC
+ Last Updated on 01/07/2023 20:36:38 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
