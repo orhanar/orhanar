@@ -453,7 +453,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -496,16 +496,18 @@ Sunday                   483 commits         ███████████�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       42 mins             ████████████████████████░   94.29 % 
+Binary                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DiceGame                 45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -525,7 +527,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2023 23:12:23 UTC
+ Last Updated on 03/08/2023 23:36:02 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
