@@ -453,7 +453,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -465,7 +465,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -525,7 +525,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2023 16:36:40 UTC
+ Last Updated on 17/09/2023 17:10:36 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
