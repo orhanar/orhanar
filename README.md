@@ -496,16 +496,16 @@ Sunday                   483 commits         ███████████�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cv                       5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -525,7 +525,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2023 23:12:32 UTC
+ Last Updated on 01/10/2023 23:36:29 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
