@@ -453,6 +453,8 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -467,6 +469,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌆 Daytime                276 commits         █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌃 Evening                371 commits         ████████████░░░░░░░░░░░░░   49.93 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Tuesday                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Wednesday                38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Thursday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Friday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Saturday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Sunday                   483 commits         ████████████████░░░░░░░░░   65.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -484,7 +525,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2023 04:36:34 UTC
+ Last Updated on 25/11/2023 05:12:00 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
