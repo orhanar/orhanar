@@ -453,13 +453,11 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 76.9 kB Used in GitHub's Storage 
+> 📦 77.0 kB Used in GitHub's Storage 
  > 
 > 🏆 72 Contributions in the Year 2023
  > 
@@ -525,7 +523,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 23:37:16 UTC
+ Last Updated on 07/12/2023 00:57:14 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
