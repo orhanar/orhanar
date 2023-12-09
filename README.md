@@ -469,45 +469,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 Daytime                299 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌃 Evening                382 commits         ████████████░░░░░░░░░░░░░   48.42 % 
-🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Tuesday                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Thursday                 15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Friday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Sunday                   490 commits         ████████████████░░░░░░░░░   62.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -525,7 +486,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2023 00:55:52 UTC
+ Last Updated on 09/12/2023 01:53:22 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
