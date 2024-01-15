@@ -467,7 +467,7 @@
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -508,14 +508,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in JavaScript** 
 
 ```text
-C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -525,7 +525,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 22:12:53 UTC
+ Last Updated on 15/01/2024 22:36:27 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
