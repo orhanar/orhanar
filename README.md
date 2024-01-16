@@ -642,8 +642,7 @@ Last Updated: Tuesday, January 16th, 2024, 2:35:38 PM (GMT)
 ## Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Post With Code](https://orhanar.quarto.pub/myblog/posts/post-with-code/index.html)
-- [Welcome To My Blog](https://orhanar.quarto.pub/myblog/posts/welcome/index.html)
+- [Hello World](https://8441836f-d9bb-4c10-b121-e8a4ac7d882b.netlify.app/posts/post-with-code/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
