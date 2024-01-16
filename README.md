@@ -629,14 +629,14 @@ Most used languages across my projects:
 </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#6](https://github.com/orhanar/orhanar.github.io/pull/6) in [orhanar/orhanar.github.io](https://github.com/orhanar/orhanar.github.io)
-2. ❌ Closed PR [#4](https://github.com/orhanar/orhanar.github.io/pull/4) in [orhanar/orhanar.github.io](https://github.com/orhanar/orhanar.github.io)
-3. 🎉 Merged PR [#2](https://github.com/orhanar/Do-It/pull/2) in [orhanar/Do-It](https://github.com/orhanar/Do-It)
+1. ❌ Closed PR [#7](https://github.com/orhanar/orhanar.github.io/pull/7) in [orhanar/orhanar.github.io](https://github.com/orhanar/orhanar.github.io)
+2. ❌ Closed PR [#6](https://github.com/orhanar/orhanar.github.io/pull/6) in [orhanar/orhanar.github.io](https://github.com/orhanar/orhanar.github.io)
+3. ❌ Closed PR [#4](https://github.com/orhanar/orhanar.github.io/pull/4) in [orhanar/orhanar.github.io](https://github.com/orhanar/orhanar.github.io)
 4. 💪 Opened PR [#2](https://github.com/orhanar/Do-It/pull/2) in [orhanar/Do-It](https://github.com/orhanar/Do-It)
 5. 📔 Created new repository [orhanar/Do-It](https://github.com/orhanar/Do-It)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 16th, 2024, 1:35:03 PM (GMT)
+Last Updated: Tuesday, January 16th, 2024, 2:11:45 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 	
 ## Latest Blog Posts
