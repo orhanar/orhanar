@@ -461,8 +461,6 @@
 
 > 📦 142.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -525,7 +523,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2024 18:17:32 UTC
+ Last Updated on 24/03/2024 18:36:29 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
