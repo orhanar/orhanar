@@ -453,13 +453,15 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 144.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -494,17 +496,20 @@ Sunday                   490 commits         ███████████�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-HTML                     3 hrs 7 mins        █████████████████████████   98.71 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+HTML                     3 hrs 57 mins       ██████████████████░░░░░░░   70.47 % 
+CSS                      1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css html                 3 hrs 9 mins        █████████████████████████   100.00 % 
+css html                 3 hrs 24 mins       ███████████████░░░░░░░░░░   60.61 % 
+aaaaaa                   1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   35.19 % 
+yyy                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -524,7 +529,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/orhanar/orhanar/master/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 23:15:37 UTC
+ Last Updated on 20/06/2024 23:37:16 UTC
 <!--END_SECTION:waka-->
 
 Here's a graph for people who like graphs: 
